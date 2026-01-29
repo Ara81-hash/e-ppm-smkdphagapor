@@ -1,0 +1,7 @@
+{
+  "name": "Copy of E-PPM SMK DPHA Gapor",
+  "description": "Sistem Catatan Harian Tugas Pembantu Pengurusan Murid (PPM) untuk SMK DPHA Gapor dengan integrasi AI untuk ringkasan tugas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
